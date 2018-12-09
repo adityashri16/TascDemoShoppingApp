@@ -12,7 +12,7 @@ Unit tests for all the important logics are included in TASCShoppingTests projec
 
 <h3>Requirements</h3>
 
-iOS 12.1+
+iOS 12.0+
 
 Swift 4+
 
