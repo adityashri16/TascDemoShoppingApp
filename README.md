@@ -13,8 +13,11 @@ Unit tests for all the important logics are included in TASCShoppingTests projec
 <h3>Requirements</h3>
 
 iOS 12.1+
+
 Swift 4+
+
 Xcode 10.1+
+
 Installation
 Simply clone and open in Xcode
 
